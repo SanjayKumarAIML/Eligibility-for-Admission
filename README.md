@@ -12,6 +12,7 @@ Create variables of respective data types to store marks and name.
 Calculate the total and store it.
 ### Step 4:
 The conditions for admission are:
+
 Marks in maths >= 65 & Marks in physics >=55 & Marks in chemistry >=50 &
 Total marks in all three subjects >= 180 or total in maths and physics >= 140
 ### Step 5:
