@@ -23,7 +23,7 @@ Print the status of the program.
 End of program.
 
 ## Program:
-
+```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -67,9 +67,11 @@ namespace LabExp1
         }
     }
 }
-
+```
 ## Output:
 
+![sriv](https://user-images.githubusercontent.com/93427246/224906814-6732effc-9597-4743-b0f3-9a7192105984.jpg)
 
 
 ## Result:
+A C# program is written to find the eligibility for admission to an engineering course and has been successfully executed.
